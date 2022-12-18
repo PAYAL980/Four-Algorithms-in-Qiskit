@@ -1,6 +1,6 @@
 # Four-Algorithms-in-Qiskit
 
-Deutsch-Jozsa Algorithm
+## Deutsch-Jozsa Algorithm
 
 Run the 'run(N, case, sim)' defined in the file at the end of the jupyter notebook of the Deutsch-Jozsa algorithm 
 
@@ -15,7 +15,7 @@ Input:
 Output: counts, if maximum counts is for '0'*N, the function is constant
                 if maximum counts is for '1'*N, the function is balanced
 
-Bernstein-Vazirani algorithm
+## Bernstein-Vazirani algorithm
 
 Run the 'run(secret_num, sim)' defined in the file at the end of the jupyter notebook of the Bernstein-Vazirani algorithm
 
@@ -29,7 +29,7 @@ Input:
 
 Output: counts, maximum number of counts are obtained for the secret string
 
-Simon's Algorithm
+## Simon's Algorithm
 
 Run the 'run(a, sim)' defined in the file at the end of the jupyter notebook of the Simon's algorithm
 
@@ -43,7 +43,7 @@ Input:
     
 Output: counts, maximum number of counts are obtained for the linearly independent strings
 
-Grover's Algorithm
+## Grover's Algorithm
 
 Run the 'run(inp_str, sim)' defined in the file at the end of the jupyter notebook of the Grover's algorithm
 
